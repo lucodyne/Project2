@@ -32,7 +32,6 @@ Navigate to the bottom of the page, the name and value of the stock will be disp
 - Express
 - Materialize
 - MVC
--
 
 ## Code Explanation
 
